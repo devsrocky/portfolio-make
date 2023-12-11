@@ -1,0 +1,35 @@
+{
+    "name": "Full name of the application",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "description": "A brief description of the application",
+    "lang": "en-US",
+    "dir": "ltr",
+    "orientation": "portrait",
+    "theme_color": "#000000",
+    "icons": [
+        {
+            "src": "myImage.jpg",
+            "sizes": "48x48",
+            "type": "image/jpg"
+        },
+        {
+            "src": "myImage.jpg",
+            "sizes": "48x48",
+            "type": "image/jpg"
+        }
+    ],
+    "scope": "/",
+    "related_application": [
+        {
+            "platform": "play",
+            "url": "https://google.play/store=?id=my"
+        },
+        {
+            "platform": "itunes",
+            "url": "https://google.itunes/store=?id=my"
+        }
+    ]
+
+}
